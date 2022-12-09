@@ -1,5 +1,5 @@
 # Malcolm
-This repository contains the source code for our SIGMETRICS'23 paper entitled [Malcolm: Multi-agent Learning for Cooperative Load Management at Rack Scale](https://doi.org/10.1145/35706110).
+This repository contains the source code for our SIGMETRICS'23 paper entitled [Malcolm: Multi-agent Learning for Cooperative Load Management at Rack Scale](https://dl.acm.org/doi/10.1145/3570611).
 
 ### Installation
 
